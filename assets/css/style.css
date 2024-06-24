@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url('../img/background-1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    background-color: transparent;
+}
+
+.nav a{
+    color: #333;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+    list-style: none;
+}
+
+.nav a:hover{
+    color: #ff523b;
+}
+
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3% 10%;
+    text-align: center;
+    
+}
+
+
+.hero-heading{
+    font-size: 50px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 30px;
+    font-family: "Luckiest Guy", cursive;
+}
+
+.hero-text{
+    font-size: 20px;
+    color: #777;
+    margin-bottom: 40px;
+}
+
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-input{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    padding: 20px 100px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+.form-container{
+    display: flex;
+    align-items: center;
+}
+
+.hero-button{
+    background: #ff523b;
+    color: #fff;
+    padding:10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.hero-button:hover{
+    background: #7c1708;
+}
+.h6-hero{
+    font-size: 15px;
+    color: #000000;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+
+.footer-1{
+    background: #333;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-1 a{
+    color: #ffffff;
+}
