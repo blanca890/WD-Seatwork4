@@ -17,7 +17,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 10px 10%;
     background: #fff;
     box-shadow: 0 5px 10px rgba(0,0,0,0.1);
     background-color: transparent;
@@ -34,9 +34,12 @@ body{
 }
 
 .nav a:hover{
-    color: #ff523b;
+    color:#1c4cdc;
 }
 
+.logo{
+    width: 130px;
+}
 
 .hero{
     display: flex;
@@ -44,15 +47,13 @@ body{
     align-items: center;
     padding: 3% 10%;
     text-align: center;
-    
 }
 
 
 .hero-heading{
-    font-size: 50px;
+    font-size: 100px;
     font-weight: 700;
     color: #333;
-    margin-bottom: 30px;
     font-family: "Luckiest Guy", cursive;
 }
 
@@ -84,7 +85,7 @@ body{
 }
 
 .hero-button{
-    background: #ff523b;
+    background: #1c4cdc;;
     color: #fff;
     padding:10px 20px;
     border-radius: 5px;
@@ -93,7 +94,8 @@ body{
 }
 
 .hero-button:hover{
-    background: #7c1708;
+    background:#2596be
+     
 }
 .h6-hero{
     font-size: 15px;
