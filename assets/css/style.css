@@ -63,40 +63,6 @@ body{
     margin-bottom: 40px;
 }
 
-.form-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-input{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: #fff;
-    padding: 20px 100px;
-    border-radius: 5px;
-    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
-}
-
-.form-container{
-    display: flex;
-    align-items: center;
-}
-
-.hero-button{
-    background: #1c4cdc;;
-    color: #fff;
-    padding:10px 20px;
-    border-radius: 5px;
-    font-size: 20px;
-    margin-left: 10px;
-}
-
-.hero-button:hover{
-    background:#2596be
-     
-}
 .h6-hero{
     font-size: 15px;
     color: #000000;

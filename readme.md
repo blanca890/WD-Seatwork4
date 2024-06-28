@@ -116,5 +116,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Gradient circle effect |For beutiful gradient effect |https://www.gradientmagic.com|
+| Bootstrap  | used for Icon and Carousel | https://getbootstrap.com/ |
