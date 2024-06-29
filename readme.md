@@ -112,3 +112,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |Gradient circle effect |For beutiful gradient effect |https://www.gradientmagic.com|
 | Bootstrap  | used for Icon and Carousel | https://getbootstrap.com/ |
+|Hero 3 |inspiration Design for Hero 3 |https://www.youtube.com/watch?v=OTjmnF27ADk&t=100s&ab_channel=CreativeJSCoder|
