@@ -57,20 +57,14 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+The project aims to develop a responsive website for showcasing various layout options for hero sections. This website will serve as a resource for designers and developers looking to explore and implement different hero section designs effectively.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Layout of hero section
 
 ### Technology
 <!-- TODO: List of Technology Used -->
