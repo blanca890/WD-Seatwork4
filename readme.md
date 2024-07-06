@@ -9,7 +9,7 @@
     <img src="./assets/img/GBlogo.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Feature Display</h3>
+  <h3 align="center">Hero Display</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -65,6 +65,7 @@ The project aims to develop a responsive website for showcasing various layout o
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
 - Layout of hero section
+- Layout for Card Gallery
 
 ### Technology
 <!-- TODO: List of Technology Used -->
