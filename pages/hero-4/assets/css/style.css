@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+    box-shadow: 0 2px 5px rgba(216, 200, 200, 0.1);
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+    background-color: #000;
+}
+
+.header-1 a {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.header-1 a:hover {
+    color: #38ac0b;
+    transition: color 0.3s ease-in-out;
+    transform: scale(1.1);
+}
+
+.logo {
+    width: 130px;
+}
+
+body {
+    height: 300vh;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 110vh;
+    background-color: #111010;
+    padding: 0 10%;
+    justify-content: space-around;
+}
+
+.hero-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    position: relative;
+    padding: 100px 0;
+}
+
+.hero-section img {
+    width: 200px;
+}
+
+.hero-text {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hero-section .bruno {
+    position: relative;
+    left:-200px;
+    width: 300px;
+}
+
+.logo{
+    position: relative;
+    top: -200px;
+    color: white;
+}
+.hero-h1{
+    position: relative;
+    font-size: 5rem;
+    top:-190px;
+    color: white;
+}
+
+
+.text{
+    position: relative;
+    top: -190px;
+    color: white;
+}
+
+
+.hero-section .kendrick{
+    position: relative;
+    right: -200px;
+    width: 280px;
+}
+
+.hero-section .Eminem{
+    position: relative;
+    left: -100px;
+    top: -200px;
+    width: 380px;
+}
+
+
+.hero-section .Weeknd{
+    position: relative;
+    top: -250px;
+    width: 500px;
+}
+
+
+.cta button{
+    position: relative;
+    top: -180px;
+    background-color: #38ac0b;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+
+}
+.hero-section .Ariana{
+    position: relative;
+    top: -150px;
+    left: -100px;
+    width: 350px;
+}
